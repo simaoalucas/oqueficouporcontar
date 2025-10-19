@@ -177,10 +177,14 @@ body {
   align-items: center;
 }
 
+.content-wrapper-container {
+  max-width: 875px;
+  position: relative;
+  margin: auto;
+}
+
 .content-wrapper {
-  width: 65%;
-  margin: 0 auto;
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 60px;
   font-size: large;
 }
@@ -191,5 +195,6 @@ body {
   padding-bottom: 30px;
 
 } */
+
 
 
