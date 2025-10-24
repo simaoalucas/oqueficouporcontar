@@ -181,6 +181,7 @@ body {
   display: flex;
   width: 87.5%;
   margin: 0 auto;
+  padding-top: 30px;
 }
 
 .content-wrapper-container {
