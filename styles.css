@@ -196,6 +196,7 @@ body {
   display: flex;
   width: 87.5%;
   margin: auto;
+  padding-bottom: 10px;
   font-size: large;
   text-align: justify;
 }
