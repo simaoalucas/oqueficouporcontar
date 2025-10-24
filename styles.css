@@ -178,23 +178,25 @@ body {
 }
 
 .content-wrapper-container {
-  max-width: 875px;
+  max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
 .content-wrapper {
+  width: 87.5%;
+  margin: auto;
   padding-top: 30px;
   padding-bottom: 60px;
   font-size: large;
 }
 
 
-/* .img-paginas {
-  text-align: center;
-  padding-bottom: 30px;
-
-} */
+@media (max-width: 600px) {
+  .content-wrapper-container {
+    width: 100%;
+  }
+}
 
 
 
