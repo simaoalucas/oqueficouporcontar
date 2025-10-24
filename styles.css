@@ -59,7 +59,7 @@ body {
   width: 87.5%;
   height:87.5%;
   margin: auto;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
 }
 
 /* Slideshow container */
@@ -187,7 +187,7 @@ body {
   max-width: 1000px;
   position: relative;
   margin: auto;
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 60px;
 }
 
