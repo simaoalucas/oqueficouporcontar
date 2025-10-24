@@ -178,7 +178,7 @@ body {
 }
 
 .audio-wrapper-container {
-  display: block;
+  display: flex;
   width: 87.5%;
   margin: 0 auto;
 }
@@ -201,7 +201,12 @@ body {
 
 @media (max-width: 600px) {
   .content-wrapper-container {
+    display: flex;
     width: 100%;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    font-size: large;
   }
 }
 
