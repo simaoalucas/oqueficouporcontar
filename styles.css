@@ -187,7 +187,7 @@ body {
   max-width: 1000px;
   position: relative;
   margin: auto;
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 60px;
 }
 
@@ -215,8 +215,6 @@ body {
     width: 100%;
     position: relative;
     margin: auto;
-    padding-top: 30px;
-    padding-bottom: 60px;
   }
 
   /* .content-wrapper {
