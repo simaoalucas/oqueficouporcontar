@@ -187,14 +187,13 @@ body {
   max-width: 1000px;
   position: relative;
   margin: auto;
+  padding-bottom: 60px;
 }
 
 .content-wrapper-container p {
   display: flex;
   width: 87.5%;
   margin: auto;
-  padding-top: 30px;
-  padding-bottom: 60px;
   font-size: large;
 }
 
