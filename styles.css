@@ -172,7 +172,14 @@ body {
 /* Audios */
 
 .audio-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.audio-wrapper-container {
   display: flex;
+  width: 87.5%;
   justify-content: center;
   align-items: center;
 }
