@@ -201,12 +201,9 @@ body {
 
 @media (max-width: 600px) {
   .content-wrapper-container {
-    display: flex;
     width: 100%;
+    position: relative;
     margin: auto;
-    padding-top: 30px;
-    padding-bottom: 60px;
-    font-size: large;
   }
 }
 
