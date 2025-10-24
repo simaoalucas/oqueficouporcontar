@@ -178,9 +178,9 @@ body {
 }
 
 .audio-wrapper-container {
-  display: flex;
+  display: block;
   width: 87.5%;
-  margin: auto;
+  margin: 0 auto;
 }
 
 .content-wrapper-container {
