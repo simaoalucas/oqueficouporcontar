@@ -196,6 +196,7 @@ body {
   width: 87.5%;
   margin: auto;
   font-size: large;
+  text-align: justify;
 }
 
 /* .content-wrapper {
