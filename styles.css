@@ -79,6 +79,14 @@ body {
   padding-bottom: 60px;
 }
 
+.mySlides-vertical {
+  display: none;
+  width: 87.5%;
+  height: 65%;
+  margin: 0 auto;
+  padding-bottom: 60px;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
