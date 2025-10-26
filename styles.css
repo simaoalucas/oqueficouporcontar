@@ -231,11 +231,6 @@ body {
     padding-bottom: 60px;
   }
 
-  .mySlides img { 
-    box-sizing: border-box;
-    object-fit: contain;
-  }
-
 }
 
 
