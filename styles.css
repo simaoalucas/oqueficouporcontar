@@ -227,16 +227,6 @@ body {
     margin: auto;
   }
 
-  /* .content-wrapper {
-    display: flex;
-    width: 87.5%;
-    margin: auto;
-    padding-bottom: 60px;
-    font-size: large;
-  } */
-}
-
-@media (height: 280px) {
   .slideshow-container {
     height: 100%;
   }
@@ -246,6 +236,13 @@ body {
     height: 100%;
     object-fit: contain;
   }
+  /* .content-wrapper {
+    display: flex;
+    width: 87.5%;
+    margin: auto;
+    padding-bottom: 60px;
+    font-size: large;
+  } */
 }
 
 
