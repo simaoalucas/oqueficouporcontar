@@ -236,6 +236,14 @@ body {
     padding-bottom: 60px;
   }
 
+.img-pag-principal {
+  height: 320px;
+}
+
+.img-paginas img { 
+  margin: 0 auto;
+}
+
 }
 
 
