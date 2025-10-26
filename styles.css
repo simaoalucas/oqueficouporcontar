@@ -81,7 +81,6 @@ body {
 }
 
 .mySlides img { 
-  width: 100%;
   height: max-content;
   object-fit: contain;
 }
