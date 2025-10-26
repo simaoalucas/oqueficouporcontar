@@ -224,7 +224,7 @@ body {
   .content-wrapper-container {
     width: 100%;
     position: relative;
-    margin: auto;
+    margin: 0 auto;
   }
 
   .slideshow-container {
