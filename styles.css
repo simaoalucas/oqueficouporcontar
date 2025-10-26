@@ -82,7 +82,6 @@ body {
 
 .mySlides img { 
   box-sizing: border-box;
-  height: 100%;
   object-fit: contain;
 }
 
@@ -234,7 +233,6 @@ body {
 
   .mySlides img { 
     box-sizing: border-box;
-    height: 100%;
     object-fit: contain;
   }
 
