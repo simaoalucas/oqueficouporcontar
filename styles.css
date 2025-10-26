@@ -236,7 +236,7 @@ body {
   } */
 }
 
-@media (max-height: 280px) {
+@media (height: 280px) {
   .slideshow-container {
     height: 100%;
   }
