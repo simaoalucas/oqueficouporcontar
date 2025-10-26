@@ -236,5 +236,21 @@ body {
   } */
 }
 
+@media (max-height: 600px) {
+  .content-wrapper-container {
+    width: 100%;
+    position: relative;
+    margin: auto;
+  }
+
+  /* .content-wrapper {
+    display: flex;
+    width: 87.5%;
+    margin: auto;
+    padding-bottom: 60px;
+    font-size: large;
+  } */
+}
+
 
 
