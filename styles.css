@@ -78,7 +78,13 @@ body {
   margin: auto;
   padding-bottom: 60px;
   object-fit: contain;
-} 
+}
+
+.mySlides img { 
+  width: 100%;
+  height: max-content;
+  object-fit: contain;
+}
 
 /* Next & previous buttons */
 .prev, .next {
