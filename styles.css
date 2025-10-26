@@ -66,6 +66,7 @@ body {
 
 .slideshow-container {
   max-width: 1000px;
+  height: 680px;
   position: relative;
   margin: auto;
 }
@@ -116,17 +117,20 @@ body {
 
 /* Caption text */
 .text {
-  color: white;
-  font-size: x-large;
-  padding: 8px 12px;
+  padding: 4px 12px;
   bottom: 8px;
   width: 100%;
-  margin: 0 auto;
+  margin: 0;
+}
+
+.text a {
+  color: white;
+  font-size: x-large;
   text-decoration: none;
   transition: color 0.5s ease;
 }
 
-.text:hover {
+.text a:hover {
   color: #848884;
 }
 
