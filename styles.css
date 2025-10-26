@@ -237,6 +237,10 @@ body {
     height: 320px;
   }
 
+  .prev, .next {
+    top: 50%;
+  }
+
 }
 
 
