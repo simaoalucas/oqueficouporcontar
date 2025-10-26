@@ -63,10 +63,6 @@ body {
   padding-bottom: 40px;
 }
 
-.img-paginas img { 
-  margin: 0 auto;
-}
-
 /* Slideshow container */
 
 .slideshow-container {
@@ -236,14 +232,10 @@ body {
     padding-bottom: 60px;
   }
 
-.img-pag-principal {
-  width: 100%;
-  height: 320px;
-}
-
-.img-paginas img { 
-  margin: 0 auto;
-}
+  .img-pag-principal {
+    width: 100%;
+    height: 320px;
+  }
 
 }
 
