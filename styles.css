@@ -224,6 +224,10 @@ body {
 
 
 @media (max-width: 600px) {
+  .titulo_site {
+    font-size: 3.5em;
+  }
+  
   .content-wrapper-container {
     width: 100%;
     position: relative;
