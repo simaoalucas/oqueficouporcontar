@@ -256,7 +256,6 @@ body {
 @media (max-width: 600px) {
   .titulo_site {
     font-size: 3.5em;
-    text-align: justify;
   }
   
   .content-wrapper-container {
