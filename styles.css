@@ -10,10 +10,16 @@ body {
   font-style: normal;
 }
 
+.titulo-wrapper {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
 .titulo_site {
+  width: 100%;
   text-align: center;
-  padding-top: 30px;
-  padding-bottom: 20px;
+  margin: 30px auto;
   font-size: 4em;
 }
 
@@ -31,8 +37,7 @@ body {
 .nav-wrapper {
   display: flex;
   justify-content: space-evenly;
-  padding-top: 20px;
-  padding-bottom: 40px;
+  margin: 40px auto;
 }
 
 .nav-wrapper > .nav-link-wrapper {
@@ -260,8 +265,12 @@ body {
 
 
 @media (max-width: 600px) {
+  .titulo-wrapper {
+    max-width: 450px;
+  }
+
   .titulo_site {
-    font-size: 3.5em;
+    font-size: 3.75em;
   }
   
   .content-wrapper-container {
