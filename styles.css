@@ -19,8 +19,8 @@ body {
 .titulo_site {
   width: 100%;
   text-align: center;
-  margin: 30px auto;
-  font-size: 4em;
+  margin: 40px auto;
+  font-size: 4.25em;
 }
 
 .titulo_site a {
@@ -35,9 +35,10 @@ body {
 }
 
 .nav-wrapper {
+  max-width: 1000px;
   display: flex;
   justify-content: space-evenly;
-  margin: 40px auto;
+  margin: 50px auto;
 }
 
 .nav-wrapper > .nav-link-wrapper {
