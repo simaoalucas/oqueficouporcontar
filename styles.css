@@ -20,7 +20,7 @@ body {
   width: 100%;
   text-align: center;
   margin: 40px auto;
-  font-size: 4.25em;
+  font-size: 4em;
 }
 
 .titulo_site a {
@@ -272,6 +272,10 @@ body {
 
   .titulo_site {
     font-size: 3.75em;
+  }
+
+  .nav-link-wrapper {
+    font-size: 1.25em;
   }
   
   .content-wrapper-container {
