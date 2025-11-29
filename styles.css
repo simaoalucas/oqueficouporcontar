@@ -274,6 +274,10 @@ body {
     font-size: 3.75em;
   }
 
+  .nav-wrapper {
+    max-width: 100%;
+  }
+
   .nav-link-wrapper {
     font-size: 1.25em;
   }
