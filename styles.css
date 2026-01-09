@@ -266,7 +266,7 @@ body {
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 900px) and (min-width: 600px) {
   .titulo-wrapper {
     max-width: 450px;
   }
